@@ -34,7 +34,7 @@ import { HttpClientModule } from '@angular/common/http';
     OwnerDetailsComponent,
     BusinessPreferencesComponent,
     BusinessPackageComponent,
-    BankDetailsComponent,
+    BankDetailsComponent
   ],
   imports: [
     BrowserModule,
